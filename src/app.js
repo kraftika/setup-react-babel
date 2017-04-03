@@ -1,8 +1,6 @@
 // import text from './text';
 // console.log(text);
 
-'use strict';
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 
